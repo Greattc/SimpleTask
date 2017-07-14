@@ -1,2 +1,2 @@
 # SimpleTask
-Task running thread GUI
+The project is based on Qt 4.8.4.
