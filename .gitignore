@@ -6,4 +6,5 @@
 *.obj
 *.ilk
 *.manifest
+.gitignore
 Makefile
