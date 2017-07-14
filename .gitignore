@@ -1,0 +1,9 @@
+*.exe
+*.Debug
+*.Release
+*.pdb
+*.pro.user
+*.obj
+*.ilk
+*.manifest
+Makefile
